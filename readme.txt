@@ -10,3 +10,10 @@ How to install
 How to use
 =========
 Refer use.txt
+
+
+
+Technologies
+============
+Javascritp
+Python
